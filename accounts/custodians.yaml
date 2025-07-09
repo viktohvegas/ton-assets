@@ -1,14 +1,14 @@
 - address: "EQCtiv7PrMJImWiF2L5oJCgPnzp-VML2CAt5cbn1VsKAxLiE"
   name: "CryptoBot"
-  require_memo: false
+  require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/crypto_bot_288.svg"
 - address: "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90"
   name: "Wallet Bot"
-  require_memo: false
+  require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
 - address: "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh"
   name: "Wallet Bot"
-  require_memo: false
+  require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
 - address: "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8"
   name: "OKX"
@@ -67,6 +67,10 @@
 - address: "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz"
   name: "Rocket Bot"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/rocket_bot_288.svg"
+- address: "EQDB3GVLWYq4TNpPEjcu_tiQfO3wkBhlpYZJCHNz4BscJPaV"
+  name: "xRocket Bot"
+  image: "https://static.ton-rocket.com/icons/main_bot.png"
+  require_memo: true
 - address: "EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg"
   name: "BitGo FTX Bankruptcy Custody"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bitgo_288.svg"
@@ -78,6 +82,23 @@
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg"
 - address: "EQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mm96"
-  name: "Avanchange"
+  name: "AvanChange"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
+- address: "EQAYgkeNrvG37SAMu9wgG9TtCyTC5fGkx8Fa6347GnWRk0v_"
+  name: "Coinone Deposit"
+  require_memo: true
+- address: "EQCk0gcrHtwTVfx_vuAJW-7HiJotPPqp7c8s6eEoYxq71hcS"
+  name: "Coinone Withdrawal"
+- address: "EQDz9O0JE6tVXQI3RQWPGmxVpJ1Idlk8ub2rH3gKmbGFvCuG"
+  name: Paribu
+  require_memo: true
+- address: "EQD5hzUJ3lovl_eygF9feq-rRH9DyR51HMjvq8bS6gnXimGv"
+  name: "BingX"
+- address: "EQDftQdPITnb-x8-gj3f15dtpQbn94F1yYxiftLoQPeGBizQ"
+  name: "FixedFloat"
+  require_memo: true
+  image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
+- address: "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q"
+  name: "Gate.io"
+  require_memo: true
